@@ -6,9 +6,9 @@ Control nine cheats from a separate desktop window with HD icons, customizable m
 
 > **Unofficial project.** This trainer is not affiliated with, sponsored by, or endorsed by the game's developers or publishers. The game itself is **not included**. Intended for offline/single-player use only.
 
-> **Publication status (October 21, 2026):** English documentation is online. The full source assets and the v6.6 binary release are still pending upload. The download steps below apply once the release assets have been published.
+![HD trainer item icons](docs/icons_preview.png)
 
-<!-- The preview image will be enabled when docs/icons_preview.png is uploaded. -->
+> **Publication status (October 21, 2026):** Full source code and assets are now available in this repository. The v6.6 binary release is pending upload; the download steps below apply once the release assets are published.
 
 ## Features
 
@@ -86,7 +86,7 @@ The trainer keeps backups of the original/previous plugin files when available. 
 
 ## Source code
 
-The complete source package is being prepared for upload. The desktop launcher is built with Go and starts a local PowerShell/Windows Forms interface. The in-game integration uses JavaScript plugin files for the RPG Maker MZ game. These components operate on local files and do not require an online service.
+The source is included in this repository. The desktop launcher is built with Go and starts a local PowerShell/Windows Forms interface. The in-game integration uses JavaScript plugin files for the RPG Maker MZ game. These components operate on local files and do not require an online service.
 
 To compile the Windows executable from an appropriate Go build environment, see `main.go`, `go.mod`, and the included icon resource. The compiled release is recommended for ordinary users.
 
@@ -100,3 +100,4 @@ To compile the Windows executable from an appropriate Go build environment, see 
 - **Security:** Use only trusted downloads; third-party trainers may be flagged by antivirus tools.
 
 **Disclaimer:** Use at your own risk. Back up your game files and saves, and respect the game creators' rights and terms. No game files or commercial game license are provided by this project.
+

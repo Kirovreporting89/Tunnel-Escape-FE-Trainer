@@ -1,0 +1,22 @@
+TUNNEL ESCAPE FE TRAINER V6.6 - SEM PAINEL F8
+============================================
+
+NOVIDADE
+O menu de cheats dentro do jogo (tecla F8) foi removido do plugin.
+Todos os 9 cheats continuam disponiveis SOMENTE na janela do trainer.
+O botao JOGAR, a ponte local, os icones HD e o GIF permanecem.
+
+COMO ATUALIZAR A INSTALACAO EXISTENTE
+1. Feche o jogo e todas as janelas antigas do trainer.
+2. Abra TUNNEL_ESCAPE_FE_TRAINER_V6_6_SEM_F8.exe.
+3. Com o jogo fechado, clique em INSTALAR PONTE uma vez.
+4. Depois clique em JOGAR para abrir o game.
+5. Agora use apenas o painel externo. F8 nao abre mais a janela interna.
+
+IMPORTANTE
+Somente baixar o novo EXE nao modifica o jogo: e preciso clicar
+INSTALAR PONTE para trocar o plugin instalado.
+Os saves sao preservados e backups dos plugins sao mantidos.
+RESTAURAR PONTE pode voltar a versao anterior, incluindo o painel F8.
+
+Compatibilidade: Windows 10/11, 64 bits.
