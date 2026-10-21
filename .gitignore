@@ -1,0 +1,12 @@
+# Temporary and user-specific files
+*.log
+*.tmp
+*.bak
+*.before_windows.bak
+*.before_windows.missing
+*.exe
+*.zip
+.vscode/
+.idea/
+__pycache__/
+*.pyc
